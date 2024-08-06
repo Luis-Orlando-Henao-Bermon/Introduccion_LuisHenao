@@ -94,11 +94,15 @@ Carpetas con programas hechos con pseint en los cuales se aprende de manera prog
 git clone https://github.com/Luis-Orlando-Henao-Bermon/Introduccion_LuisHenao
 ```
 - Abre pseint y das clic en el boton que tiene forma de carpeta
-![](/img_Readme/Cap_1.png)
+
+![image](https://github.com/user-attachments/assets/eccf66c7-c5d5-4d4e-8867-ddbd572814ad)
+
 buscas eel lugar donde clonaste el repositorio y abres el archivo que quieras ejecutar.
 
 - Despues de haber abierto el archivo das clic en el boton de play y ya podras ejecutar el programa
-![](/img_Readme/Cap_2.png)
+
+![image](https://github.com/user-attachments/assets/d5fb039b-4982-4bae-ad4d-777403edf6eb)
+
 
 ## Créditos
 
